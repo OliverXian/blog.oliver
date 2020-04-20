@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oliverxian.github.io/blog.oliver</id>
     <title>Gridea</title>
-    <updated>2020-04-19T09:11:51.928Z</updated>
+    <updated>2020-04-20T03:56:11.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oliverxian.github.io/blog.oliver"/>
     <link rel="self" href="https://oliverxian.github.io/blog.oliver/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://oliverxian.github.io/blog.oliver/images/avatar.png</logo>
     <icon>https://oliverxian.github.io/blog.oliver/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Daily News of Streaming Media]]></title>
+        <id>https://oliverxian.github.io/blog.oliver/post/daily-news-of-streaming-media/</id>
+        <link href="https://oliverxian.github.io/blog.oliver/post/daily-news-of-streaming-media/">
+        </link>
+        <updated>2020-04-19T15:19:44.000Z</updated>
+        <content type="html"><![CDATA[<p>2020.4.19</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://oliverxian.github.io/blog.oliver/post/hello-gridea/</id>
