@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oliverxian.github.io/blog.oliver</id>
-    <title>Boundary Beyond</title>
-    <updated>2021-01-29T07:58:33.546Z</updated>
+    <title>Oliver Blog</title>
+    <updated>2021-01-29T07:58:58.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oliverxian.github.io/blog.oliver"/>
     <link rel="self" href="https://oliverxian.github.io/blog.oliver/atom.xml"/>
     <logo>https://oliverxian.github.io/blog.oliver/images/avatar.png</logo>
     <icon>https://oliverxian.github.io/blog.oliver/favicon.ico</icon>
-    <rights>All rights reserved 2021, Boundary Beyond</rights>
+    <rights>All rights reserved 2021, Oliver Blog</rights>
     <entry>
         <title type="html"><![CDATA[Daily News of Video Streaming]]></title>
         <id>https://oliverxian.github.io/blog.oliver/post/daily-news-of-streaming-media/</id>
